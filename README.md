@@ -1,9 +1,11 @@
-PROYECTO DAI 22-23 Grupo9.1
+DAI PROJECT 22-23
 ======================
 
-Autores
+Author
 ---------------
-- Daniel Rodríguez Estévez 34285739F DAI_1 Grupo1.9
-- Rubén Gómez Martínez 76736398A DAI_1 Grupo 1.9
+- Rubén Gómez Martínez 76736398A
 
+Notes
+---------------
+- In case you want to use it, you need to create SQL databases, its important to create them with the configurations XML files
 
